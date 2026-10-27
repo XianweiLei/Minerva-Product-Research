@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "dashboard",
+    "name": "Dashboard",
+    "title": "综合看板",
+    "note": "将指标、异常、拓扑和事件组合在同一个工作空间，适合观察整体运行状态。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/dashboard",
+    "images": [
+      {
+        "src": "/minerva/__attachments/a_60feb58a71b80b98cdb1c049dc81934bc5abecbe62905fe3b83e574623d96455/image-2026-4-30_16-54-38.png?cb=f32d9c126321fa869a0662bb03211ee2",
+        "alt": "Minerva 综合工作空间（官方 UI Overview）",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_60feb58a71b80b98cdb1c049dc81934bc5abecbe62905fe3b83e574623d96455/image-2026-4-30_16-54-38.png?cb=f32d9c126321fa869a0662bb03211ee2"
+      },
+      {
+        "src": "/minerva/__attachments/a_799876a3fd4772b5d92415aae6ed265cddb600ee8d8193da18c7c1369e5c216d/image-2026-4-14_13-4-36.png?cb=84ba560bffd97edd6dae46c844adc8d5",
+        "alt": "image-2026-4-14_13-4-36.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_799876a3fd4772b5d92415aae6ed265cddb600ee8d8193da18c7c1369e5c216d/image-2026-4-14_13-4-36.png?cb=84ba560bffd97edd6dae46c844adc8d5"
+      }
+    ]
+  },
+  {
+    "slug": "topology",
+    "name": "Topology",
+    "title": "拓扑调查",
+    "note": "以 Job 和网络路径组织调查范围，将异常、事件与链路指标叠加到基础设施关系上。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/topology",
+    "images": [
+      {
+        "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-10.webp",
+        "alt": "NVIDIA Minerva Topology Graph（官方技术博客）",
+        "source": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image2-10.webp"
+      }
+    ]
+  },
+  {
+    "slug": "anomalies",
+    "name": "Anomalies",
+    "title": "异常分析",
+    "note": "查看 ML 检测到的异常，定位设备、时间和异常类型。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/anomalies",
+    "images": [
+      {
+        "src": "/minerva/__attachments/a_9acb745db6b01ec31f29f1f198eb90a387c33c2eb4d06966856efc60d0bd1656/image-2026-4-17_13-40-28.png?cb=d25f68fa9aa126ab8b0317f263dea207",
+        "alt": "image-2026-4-17_13-40-28.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_9acb745db6b01ec31f29f1f198eb90a387c33c2eb4d06966856efc60d0bd1656/image-2026-4-17_13-40-28.png?cb=d25f68fa9aa126ab8b0317f263dea207"
+      },
+      {
+        "src": "/minerva/__attachments/a_e1ac8a2cfc3f696abcb744faaea683816a5f49f4544da2dd69ce0b9d7ed0a926/image-2026-4-17_13-42-50.png?cb=de56846556ee9b68758a69cffa92bb04",
+        "alt": "image-2026-4-17_13-42-50.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_e1ac8a2cfc3f696abcb744faaea683816a5f49f4544da2dd69ce0b9d7ed0a926/image-2026-4-17_13-42-50.png?cb=de56846556ee9b68758a69cffa92bb04"
+      },
+      {
+        "src": "/minerva/__attachments/a_70b94bf438e84348a1bd63c2f288b4be5b0db42337295f2780aa03e8496a0b7e/image-2026-4-17_13-44-17.png?cb=5d4449e9895ec8929c675e3d13a96eb3",
+        "alt": "image-2026-4-17_13-44-17.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_70b94bf438e84348a1bd63c2f288b4be5b0db42337295f2780aa03e8496a0b7e/image-2026-4-17_13-44-17.png?cb=5d4449e9895ec8929c675e3d13a96eb3"
+      }
+    ]
+  },
+  {
+    "slug": "incidents",
+    "name": "Incidents",
+    "title": "事件聚合",
+    "note": "把相关异常归并为 Incident，通过影响范围、根因与时间线组织调查。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/incidents",
+    "images": [
+      {
+        "src": "/content/nvidiaGDC/us/en_US/networking/products/software/minerva/_jcr_content/root/responsivegrid/section_use_cases/nv_tabs/item_4/nv_image.coreimg.jpeg/1791812470624/minerva-usecase-noise-reduction-ari-1920x1080.jpeg",
+        "alt": "事件关联与降噪截图（官方产品页补充，非 Incidents 列表页）",
+        "source": "https://www.nvidia.com/content/nvidiaGDC/us/en_US/networking/products/software/minerva/_jcr_content/root/responsivegrid/section_use_cases/nv_tabs/item_4/nv_image.coreimg.jpeg/1791812470624/minerva-usecase-noise-reduction-ari-1920x1080.jpeg"
+      }
+    ]
+  },
+  {
+    "slug": "trends",
+    "name": "Trends",
+    "title": "趋势分析",
+    "note": "通过图表和维度筛选分析指标变化，与异常和事件交叉验证。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/trends",
+    "images": [
+      {
+        "src": "/minerva/__attachments/a_5e7f8e7d5be557365cb7ca2ff4771029fc14a0cb066aff03b00010c071e9bfed/image-2026-4-14_14-32-52.png?cb=8a71277f1d444d958b503279d91433d6",
+        "alt": "image-2026-4-14_14-32-52.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_5e7f8e7d5be557365cb7ca2ff4771029fc14a0cb066aff03b00010c071e9bfed/image-2026-4-14_14-32-52.png?cb=8a71277f1d444d958b503279d91433d6"
+      },
+      {
+        "src": "/minerva/__attachments/a_8ca6a1083d3276d67e9b089510c3b7cdfda5f66cbe1afc0dc0f4e64bd3c0df10/image-2026-4-15_15-5-47.png?cb=5d4bd4ab8b7a36d7b715001dfacee242",
+        "alt": "image-2026-4-15_15-5-47.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_8ca6a1083d3276d67e9b089510c3b7cdfda5f66cbe1afc0dc0f4e64bd3c0df10/image-2026-4-15_15-5-47.png?cb=5d4bd4ab8b7a36d7b715001dfacee242"
+      },
+      {
+        "src": "/minerva/__attachments/a_d3ada1208a74a3d82475bfc72da74ecd81facfdefd7074e319d16a0989ed564a/image-2026-4-15_15-39-46.png?cb=a3d91bf5f7e26e307678b1aaf41fd178",
+        "alt": "image-2026-4-15_15-39-46.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_d3ada1208a74a3d82475bfc72da74ecd81facfdefd7074e319d16a0989ed564a/image-2026-4-15_15-39-46.png?cb=a3d91bf5f7e26e307678b1aaf41fd178"
+      },
+      {
+        "src": "/minerva/__attachments/a_1aadccb87af10550e1a1b32f5e1a3e73b75da7a0638e75757e5d8b5cda088951/image-20260729-020534.png?cb=e7aad12cc07a454b11d3d8421ad7b11e",
+        "alt": "image-20260729-020534.png",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_1aadccb87af10550e1a1b32f5e1a3e73b75da7a0638e75757e5d8b5cda088951/image-20260729-020534.png?cb=e7aad12cc07a454b11d3d8421ad7b11e"
+      }
+    ]
+  },
+  {
+    "slug": "ask-sherlock",
+    "name": "Ask Sherlock",
+    "title": "AI 对话诊断",
+    "note": "以自然语言查询集群状态，并在连续对话中追问异常、事件和拓扑。",
+    "url": "https://networking-docs.nvidia.com/minerva/1.0.1/ask-sherlock",
+    "images": [
+      {
+        "src": "/minerva/__attachments/a_003c09da168ef57b657dda27ca74d9836c748bc757e488c168d2c8cf1ad2abdd/CleanShot%202026-07-31%20at%2011.30.55-20260731-183057.png?cb=1a4986e3c0b7cdef5d8f40b4ec5759d0",
+        "alt": "ask sherlock example",
+        "source": "https://networking-docs.nvidia.com/minerva/__attachments/a_003c09da168ef57b657dda27ca74d9836c748bc757e488c168d2c8cf1ad2abdd/CleanShot%202026-07-31%20at%2011.30.55-20260731-183057.png?cb=1a4986e3c0b7cdef5d8f40b4ec5759d0"
+      }
+    ]
+  }
+]
